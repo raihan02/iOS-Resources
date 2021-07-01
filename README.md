@@ -12,3 +12,5 @@ Wallpapaer make, touch and play, auto play : https://www.limit-point.com/blog/20
 Play with scroll Cell a video : https://paste.ubuntu.com/p/rP4yVHMrfm/
 
 Video Trim & Cut ( Comment cut) : https://pastebin.ubuntu.com/p/628KdDb4xB/
+
+Photo Editor : https://github.com/eventtus/photo-editor
